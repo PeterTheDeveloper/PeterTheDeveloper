@@ -1,5 +1,15 @@
 
-<h1>Hi There, I'm Peter Rose Jr <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi, I'm Peter Rose Jr <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+
+
+I'm a full stack web and app developer, and a iOS enthusiast working remotely from Brooklyn, New York, USA 🇺🇸
+
+🏢 I'm currently looking for a new full time position.
+⚙️ I daily use: .js, .html, .css
+💬 Ping me about design, react, react native, development
+📧 Reach out to me: twitter.com/peterthedev
+<!-- 🎮 Hobbies: I like UI designing and playing video games and making lame jokes (btw i use arch 🐧) -->
+
 
 <!-- I'm a **React Native Developer**. My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
