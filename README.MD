@@ -3,11 +3,11 @@
 
 
  ## I'm a full stack web and app developer, and a iOS enthusiast working remotely from Brooklyn, New York, USA 🇺🇸
-
+<!-- 
 ## 🏢 I'm currently looking for a new full time position.
 ## ⚙️ I daily use: .js, .html, .css
 ## 💬 Ping me about design, react, react native, development
-## 📧 Reach out to me: twitter.com/peterthedev
+## 📧 Reach out to me: twitter.com/peterthedev -->
 <!-- 🎮 Hobbies: I like UI designing and playing video games and making lame jokes (btw i use arch 🐧) -->
 
 
