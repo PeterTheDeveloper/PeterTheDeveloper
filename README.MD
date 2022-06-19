@@ -5,7 +5,7 @@ I am a full-stack developer, I'm a Competitive Programmer, I also like to create
 <li>👋 Hi, I’m @PeterTheDeveloper
 <li>❤️ I love Creating Apps and Programming in JS.
 <li>🌱 I’m currently learning Web Development, Android Development, and Machine Learning.
-<li>💼 Join the watchhlist for [LifePath](https://twitter.com/getlifepathapp) 
+<li>💼 Join the watchhlist for ![LifePath](https://twitter.com/getlifepathapp) 
 
 </ul>
 
