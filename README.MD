@@ -10,7 +10,7 @@ const Peter = {
 ```
 
 
-[![Peter Rose' Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=peterthedeveloper&custom_title=Peter%27s%20Contributions&hide_border=true&&theme=react-dark)
+![Peter Rose' Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=peterthedeveloper&custom_title=Peter%27s%20Contributions&hide_border=true&&theme=react-dark)
 
 
 ------
