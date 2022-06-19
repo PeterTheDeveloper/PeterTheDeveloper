@@ -2,7 +2,7 @@
 const Peter = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "Swift"],
-  askMeAbout: ["web dev", "frontend dev", "JS", "React Native", "Firebase],
+  askMeAbout: ["web dev", "frontend dev", "JS", "React Native", "Firebase"],
   technologies: {
       frontend: ["React", "React Native"],
       backend: ["Firebase", "AWS"],
