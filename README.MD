@@ -1,6 +1,6 @@
 
 
-
+```javascript
 const Peter = {
   pronouns: "He" | "Him",
   code: ["Javascript", "Python", "Swift"],
@@ -9,7 +9,7 @@ const Peter = {
       frontend: ["React", "React Native"],
       backend: ["Firebase", "AWS"],
   }
-
+```
 #### I Spent My Time On
 ```text
 💬 Programming Lanuages:
