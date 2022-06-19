@@ -1,4 +1,4 @@
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=peterthedeveloper&custom_title=Peter%27s%20Contributions&hide_border=true&&theme=react-dark)
 
 #### I Spent My Time On
 ```text
