@@ -8,7 +8,7 @@ const Peter = {
   technologies: {
       frontend: ["React", "React Native"],
       backend: ["Firebase", "AWS"],
-  }
+<!--   }
 ```
 #### I Spent My Time On
 ```text
@@ -29,7 +29,7 @@ VS Code                       ████████████████�
 
 💻 Operating System:
 MacOS                         █████████████████████████   100%
-```
+``` -->
 
 
 [![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=peterthedeveloper&custom_title=Peter%27s%20Contributions&hide_border=true&&theme=react-dark)
