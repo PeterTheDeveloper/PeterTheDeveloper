@@ -19,5 +19,5 @@ VS Code                       ████████████████�
 MacOS                         █████████████████████████   100%
 ```
 ------
-Twitter: [@PeterTheDevReeeee](https://twitter.com/PeterTheDev)
+Twitter: [@PeterTheDev](https://twitter.com/PeterTheDev)
 Last Edited on: 06/19/2022.
