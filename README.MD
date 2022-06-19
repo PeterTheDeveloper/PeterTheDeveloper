@@ -5,8 +5,7 @@
 <li>❤️ I love Creating Apps and Programming in JS.
 <li>🌱 I’m currently learning Web Development, Android Development, and Machine Learning.
 <li>💼 Join the waitlist for 
- 
-  [Link text Here](https://link-url-here.org)
+[LifePath]([https://link-url-here.org](https://twitter.com/getlifepathapp))
   
 </ul>
 
