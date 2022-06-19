@@ -1,15 +1,11 @@
 
-I am a full-stack developer, I'm a Competitive Programmer, I also like to create projects in Flask.
+👋 Hi, I’m @PeterTheDeveloper, I'm a full-stack developer, and I also like to create projects in React Native.
 
 <ul>
-<li>👋 Hi, I’m @PeterTheDeveloper
 <li>❤️ I love Creating Apps and Programming in JS.
 <li>🌱 I’m currently learning Web Development, Android Development, and Machine Learning.
-<li>💼 Join the watchhlist for ![LifePath](https://twitter.com/getlifepathapp) 
-
+<li>💼 Join the waitlist for ![LifePath](https://twitter.com/getlifepathapp) 
 </ul>
-
-
 
 ```javascript
 const Peter = {
