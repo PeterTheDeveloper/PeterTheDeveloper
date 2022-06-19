@@ -1,3 +1,5 @@
+[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrBlueBird2&theme=react-dark)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+
 #### I Spent My Time On
 ```text
 💬 Programming Lanuages:
