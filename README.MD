@@ -170,6 +170,6 @@ HTML                     2 repos             █░░░░░░░░░░�
 </p>
 
 -----
-Credits: [Alexander John Pinches](https://github.com/Parply)
+Twitter: [@PeterTheDev](https://twitter.com/PeterTheDev)
 
-Last Edited on: 05/12/2020
+Last Edited on: 06/19/2022
