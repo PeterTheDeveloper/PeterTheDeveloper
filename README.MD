@@ -1,3 +1,16 @@
+
+I am a full-stack developer, I'm a Competitive Programmer, I also like to create projects in Flask.
+
+
+👋 Hi, I’m @PeterTheDeveloper
+❤️ I love Creating Apps and Programming in JS.
+🌱 I’m currently learning Web Development, Android Development, and Machine Learning.
+💼 Join the watchhlist for [LifePath](https://twitter.com/getlifepathapp) 
+
+
+
+
+
 ```javascript
 const Peter = {
   pronouns: "He" | "Him",
