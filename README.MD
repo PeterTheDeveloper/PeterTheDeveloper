@@ -10,14 +10,13 @@
 ```javascript
 const Peter = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "Swift"],
+  code: ["Javascript", "Python", "Swift", "Solidity],
   askMeAbout: ["web dev", "frontend dev", "JS", "React Native", "Firebase"],
   technologies: {
       frontend: ["React", "React Native", "Vue JS"],
       backend: ["Firebase", "AWS", "PostgreSQL"],
  }
 ```
-
 
 ![Peter Rose' Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=peterthedeveloper&custom_title=Peter%27s%20Contributions&hide_border=true&&theme=react-dark)
 
