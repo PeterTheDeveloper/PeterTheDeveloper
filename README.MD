@@ -13,7 +13,7 @@
 ```javascript
 const Peter = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "Swift", "Solidity],
+  code: ["JavaScript", "Python", "Swift", "Solidity],
   askMeAbout: ["web dev", "frontend dev", "JS", "React Native", "Firebase"],
   technologies: {
       frontend: ["React", "React Native", "Vue JS"],
