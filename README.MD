@@ -4,7 +4,7 @@
 <ul>
 <li>❤️ I love creating apps and programming in JS.</li>
 <li>🌱 I’m currently learning Web Development, Android Development, and Machine Learning.</li>
-  <li>I'm currently working on a Crypto Token, in order to directly fight climate change.
+<li>👨🏾‍💻 currently working on a Crypto Token, in order to directly fight climate change.
    <ul><li>Bamboo Gold Solutions</li></ul>
 <li>💼 Join the waitlist for LifePath
   <ul><li>https://www.twitter.com/getlifepathapp</li></ul>
