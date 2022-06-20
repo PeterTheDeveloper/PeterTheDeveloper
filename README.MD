@@ -2,12 +2,9 @@
 👋 Hi, I’m @PeterTheDeveloper, I'm a full-stack developer, and I also like to create projects in React Native.
 
 <ul>
-<li>❤️ I love Creating Apps and Programming in JS.
+<li>❤️ I love creating apps and programming in JS.
 <li>🌱 I’m currently learning Web Development, Android Development, and Machine Learning.
-<li>💼 Join the waitlist for 
-
- [LifePath](https://twitter.com/getlifepathapp)
-  
+<li>💼 Join the waitlist for [LifePath](https://twitter.com/getlifepathapp)
 </ul>
 
 ```javascript
@@ -16,8 +13,8 @@ const Peter = {
   code: ["Javascript", "Python", "Swift"],
   askMeAbout: ["web dev", "frontend dev", "JS", "React Native", "Firebase"],
   technologies: {
-      frontend: ["React", "React Native"],
-      backend: ["Firebase", "AWS"],
+      frontend: ["React", "React Native", "Vue JS"],
+      backend: ["Firebase", "AWS", "PostgreSQL"],
  }
 ```
 
