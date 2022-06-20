@@ -2,9 +2,9 @@
 👋 Hi, I’m @PeterTheDeveloper, I'm a full-stack developer, and I also like to create projects in React Native.
 
 <ul>
-<li>❤️ I love creating apps and programming in JS.</li>
-<li>🌱 I’m currently learning Web Development, Android Development, and Machine Learning.</li>
-<li>💼 Join the waitlist for [LifePath](https://www.twitter.com/getlifepathapp)</li>
+<li>❤️ I love creating apps and programming in JS.
+<li>🌱 I’m currently learning Web Development, Android Development, and Machine Learning.
+<li>💼 Join the waitlist for [LifePath](https://www.twitter.com/getlifepathapp)
 </ul>
 
 ```javascript
