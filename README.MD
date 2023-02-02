@@ -1,3 +1,3 @@
 
 
-https://badges.strrl.dev/years/${PeterTheDeveloper}
+https://badges.strrl.dev/years/PeterTheDeveloper
