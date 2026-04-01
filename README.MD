@@ -1,6 +1,68 @@
-<a href="https://github.com/PeterTheDeveloper/PeterTheDeveloper">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PeterTheDeveloper/PeterTheDeveloper/main/dark_mode.svg">
-    <img alt="Relva Profile README" src="https://raw.githubusercontent.com/PeterTheDeveloper/PeterTheDeveloper/main/light_mode.svg">
-  </picture>
-</a>
+<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .text { font-family: monospace; font-size: 14px; fill: #c9d1d9; }
+    .accent { fill: #58a6ff; }
+    .highlight { fill: #3fb950; }
+    .warn { fill: #f78166; }
+    .dim { fill: #8b949e; }
+  </style>
+
+  <rect class="bg" width="900" height="520" rx="12"/>
+
+  <defs>
+    <clipPath id="circleView">
+      <circle cx="130" cy="140" r="80"/>
+    </clipPath>
+  </defs>
+
+  <image 
+    href="https://raw.githubusercontent.com/PeterTheDeveloper/PeterTheDeveloper/main/profile.jpg"
+    x="50" y="60" width="160" height="160"
+    clip-path="url(#circleView)"
+  />
+
+  <circle cx="130" cy="140" r="82" fill="none" stroke="#3fb950" stroke-width="2"/>
+
+  <text x="250" y="50" class="text">
+    peter@relva ---------------------------------------------
+  </text>
+
+  <text x="250" y="90" class="text">
+    OS: <tspan class="accent">iOS, Android, Web</tspan>
+  </text>
+
+  <text x="250" y="110" class="text">
+    Role: <tspan class="accent">Software Engineer</tspan>
+  </text>
+
+  <text x="250" y="130" class="text">
+    Company: <tspan class="accent">The Relva Company</tspan>
+  </text>
+
+  <text x="250" y="170" class="text">Languages:</text>
+
+  <text x="270" y="195" class="text">- JS / React Native / Expo</text>
+  <text x="270" y="215" class="text">- Swift (iOS Native)</text>
+  <text x="270" y="235" class="text">- Firebase / Backend</text>
+
+  <text x="250" y="275" class="text">Projects:</text>
+
+  <text x="270" y="300" class="text">
+    Action → <tspan class="highlight">Life OS</tspan>
+  </text>
+
+  <text x="270" y="320" class="text">Calendar → Scheduling</text>
+  <text x="270" y="340" class="text">Mailbox → Communication</text>
+  <text x="270" y="360" class="text">Hestia → Home System</text>
+  <text x="270" y="380" class="text">VaultBreaker → Security</text>
+
+  <text x="250" y="420" class="text dim">
+    "One system. Not scattered apps."
+  </text>
+
+  <text x="250" y="460" class="text warn">
+    Status: Building Relva Ecosystem...
+  </text>
+
+</svg>
