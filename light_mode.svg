@@ -1,43 +1,71 @@
-<svg width="900" height="520" viewBox="0 0 900 520" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .bg { fill: #ffffff; }
-    .text { font-family: monospace; font-size: 14px; fill: #24292f; }
-    .accent { fill: #0969da; }
-    .highlight { fill: #1a7f37; }
-    .warn { fill: #cf222e; }
-    .dim { fill: #57606a; }
-  </style>
-
-  <rect class="bg" width="900" height="520" rx="12"/>
-
-  <defs>
-    <clipPath id="circleView">
-      <circle cx="130" cy="140" r="80"/>
-    </clipPath>
-  </defs>
-
-  <image 
-    href="https://raw.githubusercontent.com/PeterTheDeveloper/PeterTheDeveloper/main/profile.jpg"
-    x="50" y="60" width="160" height="160"
-    clip-path="url(#circleView)"
-  />
-
-  <circle cx="130" cy="140" r="82" fill="none" stroke="#1a7f37" stroke-width="2"/>
-
-  <text x="250" y="50" class="text">peter@relva ---------------------------------------------</text>
-  <text x="250" y="90" class="text">OS: <tspan class="accent">iOS, Android, Web</tspan></text>
-  <text x="250" y="110" class="text">Role: <tspan class="accent">Software Engineer</tspan></text>
-  <text x="250" y="130" class="text">Company: <tspan class="accent">The Relva Company</tspan></text>
-
-  <text x="250" y="170" class="text">Languages:</text>
-  <text x="270" y="195" class="text">- JS / React Native / Expo</text>
-  <text x="270" y="215" class="text">- Swift (iOS Native)</text>
-
-  <text x="250" y="275" class="text">Projects:</text>
-  <text x="270" y="300" class="text">Action → Life OS</text>
-  <text x="270" y="320" class="text">Calendar → Scheduling</text>
-  <text x="270" y="340" class="text">Mailbox → Communication</text>
-
-  <text x="250" y="420" class="text dim">"One system. Not scattered apps."</text>
-  <text x="250" y="460" class="text warn">Status: Building Relva...</text>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0550ae;}
+.addColor {fill: #116329;}
+.delColor {fill: #82071e;}
+.cc {fill: #8c959f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#ffffff" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">  -                . -+= :.=*+%+:+++ </tspan>
+<tspan x="15" y="50">  :+                  -=.   -*%+=*=.  </tspan>
+<tspan x="15" y="70">  **=       .-:===:=- -*   .  +=:*=-  </tspan>
+<tspan x="15" y="90">     -=. %%*:  ..:=+*++:-    -*:=-+#  </tspan>
+<tspan x="15" y="110">     --.*=.          :*.  ==. .=:*%=  </tspan>
+<tspan x="15" y="130">  +**=-%-        ... .: . =+   --*#=  </tspan>
+<tspan x="15" y="150">  +**.  -....---..---.-:+=:*+:.=*=-*  </tspan>
+<tspan x="15" y="170">  *=.:  :-:==:==+##*+:-==:::-:=:*#:= </tspan>
+<tspan x="15" y="190">  %**.. -=*%@#= -*+=:-.=+:*-+%=.-=*= </tspan>
+<tspan x="15" y="210">  *+:   .:::::.   ----.*#@@@**%-  .=  </tspan>
+<tspan x="15" y="230">  -   = -*.--:::-==-:=*@@@@%++.+*===  </tspan>
+<tspan x="15" y="250">  *%- . #@%++:=%**+=+%@@@@@@@# =%%#+ </tspan>
+<tspan x="15" y="270">   ::   -@@@@%#%***%#@@@@@@@@#%**%+  </tspan>
+<tspan x="15" y="290">   =#+*%@@@@@@@###@@@@@@@@@%+*###**.  </tspan>
+<tspan x="15" y="310">  ==.*+=%@@@@@@@@@@@@@@@@@%#@@@@*::=  </tspan>
+<tspan x="15" y="330">  : =*@@%*@@@@@@@@@@@@@@@@@@@@#- ...  </tspan>
+<tspan x="15" y="350">  ---.=#@@##@@@@@@@@@@@@@@@@%*:.-..   </tspan>
+<tspan x="15" y="370">  ---.--*@##@#@@@@@@@@#@@*+=-:..-..-  </tspan>
+<tspan x="15" y="390">  ---.--:#**%#@@#@@@@##@*=+==:--:--:  </tspan>
+<tspan x="15" y="410">   .:=+**####%@@@@@@@%#*+=--:.....:   </tspan>
+<tspan x="15" y="430">     .::---==+**###**+==-::....  .    </tspan>
+<tspan x="15" y="450">         ....::::::::....             </tspan>
+<tspan x="15" y="470">                                      </tspan>
+<tspan x="15" y="490">                                      </tspan>
+<tspan x="15" y="510">                                      </tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30">peter@rose</tspan> -——————————————————————————————————————————————-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">iOS, Android, Web</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">29 years, 2 months, 15 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Relva</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Tech Lead</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">VS Code, Unity</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Python, Swift, TypeScript</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">English</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">iOS Jailbreak, Modding</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Dev</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Game Development, Building in Public</tspan>
+<tspan x="390" y="310">- Contact</tspan> -———————————————————————————————————————————————-
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Peterrosejr@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">PeterTheDeveloper</tspan>
+<tspan x="390" y="370" class="cc">. </tspan>
+<tspan x="390" y="390" class="cc">. </tspan>
+<tspan x="390" y="410">- GitHub Stats</tspan> -—————————————————————————————————————————-
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................. </tspan><tspan class="value" id="commit_data">0</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> . </tspan><tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="510" class="cc">. </tspan>
+</text>
 </svg>
