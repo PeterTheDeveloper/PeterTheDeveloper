@@ -1,3 +1,6 @@
-
-
-https://badges.strrl.dev/years/PeterTheDeveloper
+<a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/peterthedeveloper/main/dark_mode.svg">
+    <img alt="Relva Profile README" src="https://raw.githubusercontent.com/peterthedeveloper/main/light_mode.svg">
+  </picture>
+</a>
